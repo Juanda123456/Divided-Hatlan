@@ -10,13 +10,12 @@
 		"requiredTech": "Bronze Working"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
+		"name": "Debate Hall",
+		"replaces": "Library",
+		"uniqueTo": "Darklandia",
 		"cost": 80,
-		"hurryCostModifier": 160,
-		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"hurryCostModifier": 450,
+		"uniques": ["[+2 Science] per [2] population [in this city]"],
+		"requiredTech": "Writing"
 	}
 ]
