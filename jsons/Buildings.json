@@ -6,8 +6,8 @@
 		"cost": 80,
 		"hurryCostModifier": 450,
 		"maintenance": 2,
-		"uniques": ["All unit"]
-		"requiredTech": "Horseback Riding"
+		"uniques": ["New [Military] units start with [30] Experience [in this city]"]
+		"requiredTech": "Bronze Working"
 	},
 	{
 		"name": "Breeders",
