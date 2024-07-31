@@ -1,1 +1,14 @@
-
+[
+	{
+		"name": "Darklandian Infantry",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Darklandia",
+		"replaces": "Musketman",
+		"movement": 2,
+		"strength": 27,
+		"cost": 170,
+		"requiredTech": "Gunpowder",
+		"promotions": ["Shock I", "Drill I",],
+		"attackSound": "phasers"
+	}
+]
