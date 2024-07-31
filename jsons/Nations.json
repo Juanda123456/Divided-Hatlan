@@ -6,31 +6,31 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Test",
-		"startIntroPart2": "Test",
+		"startIntroPart1": "Darklandia, what a great nation it was! Our achievements were more than just great, and our country thrived in our homeland.",
+		"startIntroPart2": "Will you be able to repeat this in this other world?",
 		
-		"declaringWar": "!",
-		"attacked": "!",
-		"defeated": ".",
-		"introduction": ".",
+		"declaringWar": "Lief montrek diala ki bal!",
+		"attacked": "Lief nakoia!",
+		"defeated": "Tla mara...",
+		"introduction": "Dousk lief da",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": ".",
+		"neutralLetsHearIt": [".","?","."],
+		"neutralNo": [".","!","."],
+		"neutralYes": [".",".","."],
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "W?",
+		"hateLetsHearIt": ["!","?","."],
+		"hateNo": ["!","!","?"],
+		"hateYes": [".",".","..."],
 		
-		"afterPeace": "Very well.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": ".",
+		"tradeRequest": ".",
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"uniques": [
-			"[+30]% Strength <when defending>"
+		"uniques": DEFENSIVE_DOCTRINE[
+			"[+30]% Strength <when defending>", "[-10]% Strength <when attacking>",
 		],
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
