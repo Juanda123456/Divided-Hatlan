@@ -32,8 +32,6 @@
 		"uniquename": ["Defensive Doctrine"],
 		"uniques": [
 			"[+30]% Strength <when defending>", 
-			"[-10]% Strength for [Melee] units <when attacking>",
-			"[-10]% Strength for [Gunpowder] units <when attacking>",
 		],
 		"cities": ["Hatlagom","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
