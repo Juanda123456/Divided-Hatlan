@@ -15,7 +15,7 @@
 		"name": "Reformist Infantry",
 		"unitType": "Gunpowder",
 		"uniqueTo": "Darklandia",
-		"replaces": "Rifleman, Magical Rifleman",
+		"replaces": "Rifleman",
 		"movement": 2,
 		"strength": 40,
 		"cost": 250,
