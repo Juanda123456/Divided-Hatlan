@@ -8,7 +8,19 @@
 		"strength": 27,
 		"cost": 170,
 		"requiredTech": "Gunpowder",
-		"promotions": ["Shock I", "Drill I",],
+		"promotions": ["Shock I", "Drill I"],
+		"attackSound": "phasers"
+	}
+	{
+		"name": "Reformist Infantry",
+		"unitType": "Gunpowder",
+		"uniqueTo": "Darklandia",
+		"replaces": "Rifleman, Magical Rifleman",
+		"movement": 2,
+		"strength": 40,
+		"cost": 250,
+		"requiredTech": "Gunpowder",
+		"promotions": ["Shock I", "Drill I"],
 		"attackSound": "phasers"
 	}
 ]
