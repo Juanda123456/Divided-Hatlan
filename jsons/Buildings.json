@@ -1,4 +1,4 @@
-[
+
 	{
 		"name": "Training grounds",
 		"replaces": "Barracks",
@@ -21,7 +21,7 @@
 		"uniqueTo": "Darklandia",
 		"isNationalWonder": true,
 		"cost": 150,
-		"uniques": ["Provides [1][Iron]"],
+		"uniques": ["Provides [1] [Iron]"],
 		"requiredTech": "Iron Working"
 	}
 ]
