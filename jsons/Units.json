@@ -19,7 +19,7 @@
 		"movement": 2,
 		"strength": 40,
 		"cost": 250,
-		"requiredTech": "Gunpowder",
+		"requiredTech": "Rifling",
 		"promotions": ["Shock I", "Drill I"],
 		"attackSound": "phasers"
 	}
