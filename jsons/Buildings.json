@@ -4,7 +4,6 @@
 		"replaces": "Barracks",
 		"uniqueTo": "Darklandia",
 		"cost": 80,
-		"maintenance": 2,
 		"uniques": ["New [Military] units start with [30] Experience [in this city]"],
 		"requiredTech": "Bronze Working"
 	}
@@ -13,14 +12,14 @@
 		"replaces": "Library",
 		"uniqueTo": "Darklandia",
 		"cost": 80,
-		"uniques": ["[+2 Science] per [2] population [in this city], [+1 Culture] per [1] population [in this city]"],
+		"uniques": ["[+2 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
 	}
 	{
 		"name": "Smelter",
 		"uniqueTo": "Darklandia",
 		"isNationalWonder": true,
-		"cost": 150,
+		"cost": 90,
 		"uniques": ["Provides [1] [Iron]"],
 		"requiredTech": "Iron Working"
 	}
