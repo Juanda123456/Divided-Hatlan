@@ -8,7 +8,7 @@
 		"strength": 27,
 		"cost": 170,
 		"requiredTech": "Gunpowder",
-		"requiredResource": "[1] Iron",
+		"requiredResource": "Iron",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
 		"promotions": ["Shock I", "Drill I"],
