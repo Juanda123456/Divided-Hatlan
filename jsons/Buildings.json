@@ -20,7 +20,7 @@
 		"uniqueTo": "Darklandia",
 		"isNationalWonder": true,
 		"cost": 90,
-		"uniques": ["Provides [1] [Iron]"],
+		"uniques": ["Provides [2] [Iron]"],
 		"requiredTech": "Iron Working"
 	}
 ]
