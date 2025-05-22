@@ -61,7 +61,7 @@
 		"afterPeace": "May we never cross blades again, for you and me...",
 		"tradeRequest": "I have a proposition.",
 
-		"outerColor": [7,144,184],
+		"outerColor": [0,0,0],
 		"innerColor": [255,0,0],
 		"uniquename": ["Diplomatic Wisemen"],
 		"uniques": [ "Gifts of Gold to City-States generate [+35]% more Influence", "[+20]% [Culture] [in all cities]" ],
