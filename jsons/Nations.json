@@ -29,8 +29,8 @@
 
 		"outerColor": [255,255,0],
 		"innerColor": [0,0,0],
-		"uniquename": "Sword and Hammer",
+		"uniquename": "Sword and Hammer:",
 		"uniques": [ "[+40]% Strength <when defending>", "[+15]% [Production] [in all cities]" ],
-		"cities": ["Hatlagom", "Karsag", "Darapant", "Uhgo", "Birim", "Kawamed"]
+		"cities": ["Hatlagom", "Karsag", "Darapant", "Uhgo", "Birim", "Kawamed"],
 	}
 ]
