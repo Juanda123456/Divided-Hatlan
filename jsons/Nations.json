@@ -31,7 +31,7 @@
 		"innerColor": [0,0,0],
 		"uniquename": ["Sword and Hammer"],
 		"uniques": [ "[+40]% Strength <when defending>", "[+15]% [Production] [in all cities]" ],
-		"cities": ["Hatlagom", "Karsag", "Darapant", "Uhgo", "Birim", "Kawamed", Gatlpa],
+		"cities": ["Hatlagom", "Karsag", "Darapant", "Uhgo", "Birim", "Kawamed", "Gatlpa"],
 	}
         {
 		"name": "Okosko",
@@ -64,7 +64,7 @@
 		"outerColor": [144,144,144],
 		"innerColor": [255,0,0],
 		"uniquename": ["Diplomatic Wisemen"],
-		"uniques": [ "Gifts of Gold to City States generate [+30]% more Influence", "[+20]% Culture" ],
+		"uniques": [ "Gifts of Gold to City States generate [+30]% more [Influence]", "[+20]% [Culture] [in all cities]" ],
 		"cities": ["Aparata", "Datar", "Gokuto"],
 	}
 ]
