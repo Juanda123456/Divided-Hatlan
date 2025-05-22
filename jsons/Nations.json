@@ -4,7 +4,7 @@
 		"leaderName": "Segarin",
 		"adjective": ["Binibo"],
 		"startBias": ["Grassland"],
-		"preferredVictoryType": "Scientific",
+		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "The Binibo, Masters of war and logistics. They are one of the most difficult countries to attack, for their enemies will be met by staunch formations that rival even mountains!",
 		"startIntroPart2": "Will you be able to live up to their reputation?",
@@ -64,7 +64,7 @@
 		"outerColor": [144,144,144],
 		"innerColor": [255,0,0],
 		"uniquename": ["Diplomatic Wisemen"],
-		"uniques": [ "Gifts of Gold to City States generate [+30]% more [Influence]", "[+20]% [Culture] [in all cities]" ],
+		"uniques": [ "Gifts of Gold to City-States generate [+35]% more Influence", "[+20]% [Culture] [in all cities]" ],
 		"cities": ["Aparata", "Datar", "Gokuto"],
 	}
 ]
