@@ -6,7 +6,7 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Binibo, Masters of defense and logistics. They are one of the most difficult countries to attack, for their enemies will be met by staunch formations that rival even mountains!",
+		"startIntroPart1": "Binibo, Masters of war and logistics. They are one of the most difficult countries to attack, for their enemies will be met by staunch formations that rival even mountains!",
 		"startIntroPart2": "Will you be able to live up to their reputation?",
 		
 		"declaringWar": "I declare thou an enemy of my kingdom!",
@@ -30,7 +30,7 @@
 		"outerColor": [255,255,0],
 		"innerColor": [0,0,0],
 		"uniquename": "Sword and Hammer:",
-		"uniques": [ "[+40]% Strength <when defending>", "[+15]% [Production] [in all cities]" ],
+		"uniques": [ "[+40]% Strength <when defending>", "[+15]% Strength <when attacking>", "[+15]% [Production] [in all cities]" ],
 		"cities": ["Hatlagom", "Karsag", "Darapant", "Uhgo", "Birim", "Kawamed"],
 	}
 ]
