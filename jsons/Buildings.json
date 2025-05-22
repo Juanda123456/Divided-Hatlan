@@ -4,7 +4,7 @@
 		"replaces": "Barracks",
 		"uniqueTo": "Darklandia",
 		"cost": 80,
-		"uniques": ["New [Military] units start with [30] Experience [in this city]"],
+		"uniques": ["New [Military] units start with [30] XP [in this city]"],
 		"requiredTech": "Bronze Working"
 	}
 	{
