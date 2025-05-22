@@ -30,7 +30,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniquename": "Sword and Hammer",
-		"uniques": [ "[+30]% Strength", "[+15]% Strength [when defending]", "[+15]% [Production] [in all cities]" ],
+		"uniques": [ "[+30]% Strength", "[+15]% Strength <when defending>", "[+15]% [Production] [in all cities]" ],
 		"cities": ["Hatlagom","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell"]
