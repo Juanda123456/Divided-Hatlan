@@ -6,8 +6,7 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Binibo, Masters of defense and logistics. 
-		                   They are one of the most difficult countries to attack, for their enemies will be met by staunch formations that rival even mountains!",
+		"startIntroPart1": "Binibo, Masters of defense and logistics. They are one of the most difficult countries to attack, for their enemies will be met by staunch formations that rival even mountains!",
 		"startIntroPart2": "Will you be able to live up to their reputation?",
 		
 		"declaringWar": "I declare thou an enemy of my kingdom!",
