@@ -27,7 +27,7 @@
 		"afterPeace": "Let us not interfere in each other's buisness, eh?",
 		"tradeRequest": "Is this fair to you?",
 
-		"outerColor": [255,255,0],
+		"outerColor": [155,155,0],
 		"innerColor": [0,0,0],
 		"uniquename": ["Sword and Hammer"],
 		"uniques": [ "[+40]% Strength <when defending>", "[+15]% [Production] [in all cities]" ],
@@ -62,7 +62,7 @@
 		"tradeRequest": "I have a proposition.",
 
 		"outerColor": [0,0,0],
-		"innerColor": [255,0,0],
+		"innerColor": [155,0,0],
 		"uniquename": ["Diplomatic Wisemen"],
 		"uniques": [ "Gifts of Gold to City-States generate [+35]% more Influence", "[+20]% [Culture] [in all cities]" ],
 		"cities": ["Aparata", "Datar", "Gokuto"],
