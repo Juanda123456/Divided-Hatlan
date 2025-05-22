@@ -17,7 +17,7 @@
 	}
 	{
 		"name": "Smelter",
-		"uniqueTo": "Binibo",
+		"uniqueTo": ["Binibo", "Okosko"],
 		"isNationalWonder": true,
 		"cost": 90,
 		"uniques": ["Provides [2] [Iron]"],
