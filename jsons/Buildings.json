@@ -2,7 +2,7 @@
 	{
 		"name": "Training grounds",
 		"replaces": "Barracks",
-		"uniqueTo": "Darklandia",
+		"uniqueTo": "Binibo",
 		"cost": 80,
 		"uniques": ["New [Military] units start with [30] XP [in this city]"],
 		"requiredTech": "Bronze Working"
@@ -10,14 +10,14 @@
 	{
 		"name": "Debate Hall",
 		"replaces": "Library",
-		"uniqueTo": "Darklandia",
+		"uniqueTo": "Binibo",
 		"cost": 80,
 		"uniques": ["[+2 Science] per [2] population [in this city]"],
 		"requiredTech": "Writing"
 	}
 	{
 		"name": "Smelter",
-		"uniqueTo": "Darklandia",
+		"uniqueTo": "Binibo",
 		"isNationalWonder": true,
 		"cost": 90,
 		"uniques": ["Provides [2] [Iron]"],
