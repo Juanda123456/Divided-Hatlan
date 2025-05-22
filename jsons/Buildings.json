@@ -16,8 +16,16 @@
 		"requiredTech": "Writing"
 	}
 	{
-		"name": "Smelter",
-		"uniqueTo": ["Binibo", "Okosko"],
+		"name": "Binibo Smelter",
+		"uniqueTo": "Binibo",
+		"isNationalWonder": true,
+		"cost": 90,
+		"uniques": ["Provides [2] [Iron]"],
+		"requiredTech": "Iron Working"
+	}
+	{
+		"name": "Okosko Smelter",
+		"uniqueTo": "Okosko",
 		"isNationalWonder": true,
 		"cost": 90,
 		"uniques": ["Provides [2] [Iron]"],
