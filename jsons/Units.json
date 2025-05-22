@@ -1,31 +1,17 @@
 [
 	{
-		"name": "Darklandian Infantry",
-		"unitType": "Gunpowder",
-		"uniqueTo": "Darklandia",
-		"replaces": "Musketman",
+		"name": "Binibo Swordsman",
+		"unitType": "Sword",
+		"uniqueTo": "Binibo",
+		"replaces": "Swordsman",
 		"movement": 2,
-		"strength": 27,
+		"strength": 15,
 		"cost": 170,
-		"requiredTech": "Gunpowder",
+		"requiredTech": "Iron working",
 		"requiredResource": "Iron",
-		"obsoleteTech": "Rifling",
-		"upgradesTo": "Rifleman",
+		"obsoleteTech": "Steel",
+		"upgradesTo": "Longswordsman",
 		"promotions": ["Shock I", "Drill I"],
-		"attackSound": "phasers"
-	}
-	{
-		"name": "Reformist Infantry",
-		"unitType": "Gunpowder",
-		"uniqueTo": "Darklandia",
-		"replaces": "Rifleman",
-		"movement": 2,
-		"strength": 40,
-		"cost": 250,
-		"requiredTech": "Rifling",
-		"obsoleteTech": "Replaceable Parts",
-		"upgradesTo": "Great War Infantry",
-		"promotions": ["Shock I", "Drill I"],
-		"attackSound": "phasers"
+		"attackSound": "metal"
 	}
 ]
