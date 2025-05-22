@@ -30,7 +30,7 @@
 		"outerColor": [155,155,0],
 		"innerColor": [0,0,0],
 		"uniquename": ["Sword and Hammer"],
-		"uniques": [ "[+35]% Strength <when defending>", "[+25]% <when fighting in [Friendly Land] tiles>", "[+15]% [Production] [in all cities]" ],
+		"uniques": [ "[+35]% Strength <when defending>", "[+25]% Strength <when fighting in [Friendly Land] tiles>", "[+15]% [Production] [in all cities]" ],
 		"cities": ["Hatlagom", "Karsag", "Darapant", "Uhgo", "Birim", "Kawamed", "Gatlpa"],
 	}
         {
@@ -64,7 +64,7 @@
 		"outerColor": [0,0,0],
 		"innerColor": [155,0,0],
 		"uniquename": ["Diplomatic Wisemen"],
-		"uniques": [ "Gifts of Gold to City-States generate [+35]% more Influence", "[+20]% [Culture] [in all cities]" ],
+		"uniques": [ "Gifts of Gold to City-States generate [+75]% more Influence", "[+30]% [Culture] [in all cities]", "[+25]% Strength <when fighting in [Friendly Land] tiles>" ],
 		"cities": ["Aparata", "Datar", "Gokuto"],
 	}
 ]
