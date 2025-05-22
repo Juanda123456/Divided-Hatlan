@@ -6,7 +6,7 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Binibo, Masters of war and logistics. They are one of the most difficult countries to attack, for their enemies will be met by staunch formations that rival even mountains!",
+		"startIntroPart1": "The Binibo, Masters of war and logistics. They are one of the most difficult countries to attack, for their enemies will be met by staunch formations that rival even mountains!",
 		"startIntroPart2": "Will you be able to live up to their reputation?",
 		
 		"declaringWar": "I declare thou an enemy of my kingdom!",
@@ -14,12 +14,12 @@
 		"defeated": "Bested, I was. Well done, noble foe.",
 		"introduction": "I greet thou, noble stranger!",
 		
-		"neutralHello": "Ah, welcome",
+		"neutralHello": ["Ah, welcome!"],
 		"neutralLetsHearIt": ["I will hear what you suggest."],
 		"neutralNo": ["No thank you. Sorry."],
 		"neutralYes": ["Seems fair!"],
 
-		"hateHello": "What brings you here....",
+		"hateHello": ["What brings you here...."],
 		"hateLetsHearIt": ["I will hear, but not for long!"],
 		"hateNo": ["No!"],
 		"hateYes": ["You are lucky that I accept!"],
@@ -29,8 +29,42 @@
 
 		"outerColor": [255,255,0],
 		"innerColor": [0,0,0],
-		"uniquename": "Sword and Hammer:",
-		"uniques": [ "[+40]% Strength <when defending>", "[+15]% Strength <when attacking>", "[+15]% [Production] [in all cities]" ],
-		"cities": ["Hatlagom", "Karsag", "Darapant", "Uhgo", "Birim", "Kawamed"],
+		"uniquename": ["Sword and Hammer"],
+		"uniques": [ "[+40]% Strength <when defending>", "[+15]% [Production] [in all cities]" ],
+		"cities": ["Hatlagom", "Karsag", "Darapant", "Uhgo", "Birim", "Kawamed", Gatlpa],
+	}
+        {
+		"name": "Okosko",
+		"leaderName": "Bardotlo",
+		"adjective": ["Binibo"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "The Okosko. Masters of diplomacy and social reform. Wise and cunning, every kingdom reeks of future benefits in their eyes.",
+		"startIntroPart2": "Will you be able to live up to their reputation?",
+		
+		"declaringWar": "It is nothing personal, my now enemy of the state.",
+		"attacked": "If you wish...",
+		"defeated": "I see that I was bested. Well done.",
+		"introduction": "I greet thou...",
+		
+		"neutralHello": ["Welcome."],
+		"neutralLetsHearIt": ["I will give you listen."],
+		"neutralNo": ["I do not think so."],
+		"neutralYes": ["Seems good."],
+
+		"hateHello": ["You best have a good reason for this intrusion!"],
+		"hateLetsHearIt": ["Say what you must, fiend!"],
+		"hateNo": ["No chance in all the world!"],
+		"hateYes": ["However mad I am, I will not refuse this offer..."],
+		
+		"afterPeace": "May we never cross blades again, for you and me...",
+		"tradeRequest": "I have a proposition.",
+
+		"outerColor": [144,144,144],
+		"innerColor": [255,0,0],
+		"uniquename": ["Diplomatic Wisemen"],
+		"uniques": [ "Gifts of Gold to City States generate [+30]% more Influence", "[+20]% Culture" ],
+		"cities": ["Aparata", "Datar", "Gokuto"],
 	}
 ]
