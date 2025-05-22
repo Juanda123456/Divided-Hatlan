@@ -6,8 +6,9 @@
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Darklandia, what a great nation it was! Our achievements were more than just great, and our country thrived in our homeland.",
-		"startIntroPart2": "Will you be able to repeat this in this other world?",
+		"startIntroPart1": "Binibo, Masters of defense and logistics. 
+		                   They are one of the most difficult countries to attack, for their enemies will be met by staunch formations that rival even mountains!",
+		"startIntroPart2": "Will you be able to live up to their reputation?",
 		
 		"declaringWar": "I declare thou an enemy of my kingdom!",
 		"attacked": "We go to war then!",
