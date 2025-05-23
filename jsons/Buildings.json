@@ -31,4 +31,12 @@
 		"uniques": ["Provides [2] [Iron]"],
 		"requiredTech": "Iron Working"
 	}
+	{
+		"name": "Hall of the Crafts",
+		"uniqueTo": "Okosko",
+		"isNationalWonder": true,
+		"cost": 70,
+		"uniques": ["[+4] [Culture]", "[+25]% [Culture]"],
+		"requiredTech": ""
+	}
 ]
