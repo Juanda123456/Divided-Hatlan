@@ -36,7 +36,7 @@
 		"uniqueTo": "Okosko",
 		"isNationalWonder": true,
 		"cost": 70,
-		"uniques": ["[+4] [Culture]", "[+25]% [Culture]"],
-		"requiredTech": ""
+		"uniques": ["[+4 Culture]", "[+25]% [Culture]"],
+		"requiredTech": "Bronze Working"
 	}
 ]
